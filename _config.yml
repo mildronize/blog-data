@@ -1,8 +1,6 @@
 # Permalinks
 permalink:           /posts/:title/
 
-source:             jekyll-src
-
 # Setup
 title:               Poole
 tagline:             The Jekyll Butler
